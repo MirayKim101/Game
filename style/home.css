@@ -1,0 +1,21 @@
+/* Верхняя кнопка  */
+
+.play__game-btn {
+    background: var(--bluegradient);
+
+}
+
+.play__game-btn:hover {
+    box-shadow: 0 0.4rem 1.4rem 0 var(--blue);
+}
+
+/* Нижняя кнопка  */
+
+.high__score-btn {
+    background: var(--yellowgradient);
+
+}
+
+.high__score-btn:hover {
+    box-shadow: 0 0.4rem 1.4rem 0 var(--lightgreen);
+}
